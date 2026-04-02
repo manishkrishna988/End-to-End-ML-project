@@ -1,1 +1,1 @@
-## End to End Machine learning project to understand CI/CD ad deployment
+## End to End Machine learning project to understand CI/CD and deployment
